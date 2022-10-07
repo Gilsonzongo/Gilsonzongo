@@ -1,6 +1,6 @@
 - Hi!! Eu sou o Gilson🙃
 - 🌱 Dev. Front-end
-- 👀  Estou aprendendo...
+- 👀  Estou desenvolvendo o meu conhecimento 
 - 📫 Contate-me no email: gilsonagostinho1@hotmail.com
 
 <!---
